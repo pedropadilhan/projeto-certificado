@@ -1,6 +1,5 @@
 # projeto-certificado
- Pagina para exibir meus certificados no linkedin
-
+ Eu não consegui mostrar a credencial dos meus certificados de cursos no linkedin e decidi criar uma pagina html e hospeda-la no gitHub Pages.
 # Ex001 26/08/2022:
 - Pensei em exibir os pdfs dentro de iframes e organizei o conteúdo na página. Pretendo trabalhar na estilização, criar um menu que direcione aos certificados e otimizar a responsividade da página.
 
