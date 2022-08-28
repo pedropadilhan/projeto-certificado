@@ -1,0 +1,46 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,300;0,400;0,700;1,400&family=Roboto:wght@400;700&display=swap');
+
+/* Versão Mobile First */
+
+* {
+    font-family: 'Roboto', sans-serif;
+    font-size: 1em;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    height: 100vh;
+}
+
+body {
+    background-color: black;
+}
+
+main {
+    background-color: rgba(225, 225, 225, 0.842);
+    width: 90vw;
+    margin: auto;
+    margin-top: 20px;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+h1 {
+    text-align: center;
+    color: white;
+    font-size: 2em;
+    text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.562);
+    margin-bottom: 30px;
+}
+
+.container {
+    text-align: center;
+}
+.container > iframe {
+    width: 80vw;
+    height: 55vh;
+    margin-bottom: 25px;
+}
