@@ -1,6 +1,12 @@
 # projeto-certificado
  Não consegui mostrar a credencial dos meus certificados de cursos no linkedin e decidi criar uma pagina html e hospeda-la no gitHub Pages.
  
+ # Bug 29/08/2022:
+ - Testando o projeto em dispositivos móveis, percebi que os pdfs precisam ser baixados no aparelho para que sejam exibidos, o que não o deixa muito funcional. Pretendo converte-los para png e estou decidindo o que farei no projeto. 
+ ## Layout Bug:
+ ![c7b08cf6-7870-412a-b0f0-849c834fc83e](https://user-images.githubusercontent.com/89949855/187200989-c0e0320d-cd6c-4bfb-acee-e0dc0a09dbec.jpg)
+
+ 
  # Atualização 28/08/2022:
  - Dormi mal com o resultado anterior e decidi recomeçar o projeto aplicando os conceitos de Mobile First.
  ## Layout:
