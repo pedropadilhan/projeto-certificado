@@ -1,5 +1,8 @@
 # projeto-certificado
  Não consegui mostrar a credencial dos meus certificados de cursos no linkedin e decidi criar uma pagina html e hospeda-la no gitHub Pages.
+
+ # Atualização 30/08/2022:
+ - Mudei as cores da pagina, comecei a desenvolver um menu com botões que levam aos certificados e comecei a trabalhar em um menu "hamburger" para a versão mobile. Preciso aprender a fazer um botão flutuante que leve pro inicio da pagina
  
  # Bug 29/08/2022:
  - Testando o projeto em dispositivos móveis, percebi que os pdfs precisam ser baixados no aparelho para que sejam exibidos, o que não o deixa muito funcional. Pretendo converte-los para png e estou decidindo o que farei no projeto. 
