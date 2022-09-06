@@ -16,44 +16,60 @@ html {
 }
 
 body {
-    background-color: #77927bb8;
+    background-color: #9CC3C3;
 }
 
-header{
-    background-color: #92B397;
+header {
+    background-color: #428485;
 }
 
-header > h1 {
+header>h1 {
     text-align: center;
-    color: rgb(53, 53, 53);
+    color: white;
     padding: 10px;
     font-size: 2em;
 }
 
-/* menu{
+span#burger {
+    background-color: rgb(48, 48, 48);
+    color: white;
     display: block;
-} */
+    text-align: center;
+    padding: 10px;
+}
 
-menu > ul{
+span#burger:hover {
+    background-color: white;
+    color: black;
+    transition: 0.2s;
+}
+
+
+menu {
+    display: none;
+}
+
+
+menu>ul {
     list-style-type: none;
 }
 
-menu > ul > li > a{
+menu>ul>li>a {
     display: block;
     padding: 5px;
     text-decoration: none;
     text-align: center;
-    background-color: #5E7361;
+    background-color: #1C3838;
     color: white;
-    border-top: 2px solid rgb(132, 158, 135); 
+    border-top: 2px solid rgb(132, 158, 135);
 }
 
-menu > ul > li > a:hover{
-    background-color: rgb(132, 158, 135);
+menu>ul>li>a:hover {
+    background-color:#93b6b776;
 }
 
 main {
-    background-color: #b0dbb6;
+    background-color: #dce3e696;
     width: 90vw;
     margin: auto;
     margin-top: 20px;
@@ -66,7 +82,8 @@ main {
 .container {
     text-align: center;
 }
-.container > iframe {
+
+.container>iframe {
     width: 80vw;
     height: 55vh;
     margin-bottom: 25px;
