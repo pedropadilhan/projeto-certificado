@@ -1,5 +1,13 @@
 # projeto-certificado
  Não consegui mostrar a credencial dos meus certificados de cursos no linkedin e decidi criar uma pagina html e hospeda-la no gitHub Pages.
+ 
+ # Atualização 20/01/2023:
+ - Depois de alguns meses voltei nesse projeto e identifiquei varios pontos para melhora-lo, como por exemplo: converti os certificados de pdf para svg e na estrutura HTML deixei de usar <iframe> e usei <img>. Tambem criei cards para apresentar os certificados e tratei a responsividade usando flexbox.
+ ## Layout:
+ ![2023-01-20 (2)](https://user-images.githubusercontent.com/89949855/213807787-bff70942-9f5c-48d2-a173-d2db3e918a89.png)
+ ![2023-01-20 (7)](https://user-images.githubusercontent.com/89949855/213807792-96b7f941-6dd7-430c-aa9d-52bc689833a6.png)
+ ![2023-01-20 (17)](https://user-images.githubusercontent.com/89949855/213807780-10229913-940f-4940-9f13-37d7641859fd.png)
+ ![2023-01-20 (18)](https://user-images.githubusercontent.com/89949855/213807784-a3fa98c5-3d8b-4fda-801e-1c9ec3c7a9d5.png)
 
  # Atualização 30/08/2022:
  - Mudei as cores da pagina, comecei a desenvolver um menu com botões que levam aos certificados e comecei a trabalhar em um menu "hamburger" para a versão mobile. Preciso aprender a fazer um botão flutuante que leve pro inicio da pagina
